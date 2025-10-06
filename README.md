@@ -1,0 +1,1 @@
+# typescript_log_injection
